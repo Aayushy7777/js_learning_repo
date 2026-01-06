@@ -19,7 +19,7 @@ console.log(myArr);
 
 
 console.log(myArr.includes(9));
-console,log(myArr.indexOf(3));
+console.log(myArr.indexOf(3));
 
 // slice, splice
 
