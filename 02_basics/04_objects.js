@@ -85,7 +85,8 @@ console.log(instructor);
 
 // {
 //     "name": "hitesh",
-//     "coursename": "js in hindi",
+//     "coursename": "js in hindi",      // api response
+
 //     "price": "free"
 // }
 
