@@ -7,7 +7,7 @@
 
 ##Solution code
 
-##project 1 solution
+## project 1 solution
 ``` javascript 
 console.log("aayush);
 // console.log("hitesh")
@@ -60,4 +60,32 @@ form.addEventListener('submit', function (e) {
     results.innerHTML = `<span>${bmi}</span>`;
   }
 });
+
+```
+## project 3 solution
+```javascript
+
+const clock = document.getElementById('clock');
+
+
+setInterval(function() {
+  
+    let date = new Date();
+
+
+// console.log(date.toLocaleString);
+    clock.innerHTML = date.toLocaleTimeString();
+
+},1000)
+;
+
+
+
+
+```
+
+## project 4 solution
+```javascript
+
+
 ```
